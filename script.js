@@ -1,16 +1,16 @@
 const PROFILE = {
   name: "Rizky Nurahman",
   role: "Pengembang perangkat lunak",
-  intro: "Saya membuat aplikasi web, API, dan otomasi, dari server Linux sampai sistem trading.",
-  about: "rnpproject adalah ruang kerja saya untuk riset, otomasi, dan pengembangan perangkat lunak.",
+  intro: "Saya antusias dengan teknologi, terutama Python, Linux, jaringan, dan pengolahan data.",
+  about: "rnpproject adalah ruang kerja untuk otomasi dan pengembangan perangkat lunak. Proyek-proyeknya dibuat rapi, terdokumentasi, dan mudah digunakan kembali.",
   photo: "https://avatars.githubusercontent.com/u/143045891?v=4",
   focus: [
     { t: "Web", d: "Aplikasi web, API, dan layanan pendukungnya." },
     { t: "Bot dan otomasi", d: "Bot, skrip, dan alur kerja untuk pekerjaan berulang." },
     { t: "Open source", d: "Kode terbuka dengan lisensi yang jelas." },
-    { t: "Riset", d: "Eksperimen dan catatan seputar komputasi kuantum." }
+    { t: "Riset", d: "Eksperimen teknologi dan pengembangan solusi praktis." }
   ],
-  stack: ["Python", "TypeScript", "Shell", "FastAPI", "Next.js", "Linux", "Cloudflare", "Vercel"],
+  stack: ["Python", "Linux", "Network", "Data", "Office"],
   projects: [
     { title: "Algentra Capital", desc: "Platform trading berbasis AI. Core API FastAPI berjalan di Windows Server dengan Supabase PostgreSQL dan Cloudflare Tunnel, sementara klien web disajikan lewat Next.js di Vercel. Mendukung managed copy trading pada MetaTrader 5.", tags: ["Python", "FastAPI", "Next.js", "Supabase"], url: "https://github.com/rnpproject/algentraCapitalProject" },
     { title: "open-vpn-server", desc: "Server VPN untuk mengelola akun OpenVPN, SSH, dan Xray melalui CLI, menu interaktif, atau REST API. Dilengkapi registry SQLite, pengaturan masa aktif, dan pembatasan sesi.", tags: ["Shell", "Python", "FastAPI", "SQLite"], url: "https://github.com/rnpproject/open-vpn-server" },
